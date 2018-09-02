@@ -60,7 +60,7 @@ int fun(int a, int b){
     return x;
 }
 ```
-生产语法树：
+生成语法树：
 <img src="./resource/hello/1.1.png" alt="图1.1" title="图1.1" width="700"/>
 
 ##### 2.3,生产中间代码：
